@@ -1,1 +1,1 @@
-A basic Tic Tac Toe game mage in C.
+A basic Tic Tac Toe game made in C.
